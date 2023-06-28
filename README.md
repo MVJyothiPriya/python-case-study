@@ -1,1 +1,1 @@
-# python-case-study
+# python-case-study ADS Internship
